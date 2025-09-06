@@ -2,7 +2,8 @@
 
 ## __I'm an aspiring Data Professional.__
 
-<img width="500" height="300" alt="Gemini_Generated_Image_y1oyf2y1oyf2y1oy (1)" src="https://github.com/user-attachments/assets/78c526ff-09e0-4743-b1ba-ccac5f4ee629" />
+<img width="550" height="350" alt="Todays image" src="https://github.com/user-attachments/assets/96c145ef-28b4-4b3f-887d-b9b80fd2bf02" />
+
 
 
 
