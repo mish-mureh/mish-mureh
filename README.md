@@ -8,9 +8,12 @@
 
 
 
-My background is in __data visualization with python__. I am currently expanding my skills in __data analytics__ and __machine learning__.
+### My background is in __data visualization with python__. .
 
-* 🌱 I’m currently learning at WQU and preparing for my upcoming class at ALX.
+* 🌱 I am currently expanding my skills in __data analytics__ and __machine learning__ .
+
 * 🔭 I’m working on a data project focused on agriculture.
+
 * 💬 Ask me about data visualization with Python!
+
 * 📫 How to reach me: mishmureh@gmail.com
