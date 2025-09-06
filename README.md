@@ -1,4 +1,4 @@
-                                           ## **Hello 👋, I'm Michelle Murigi**
+##                                               **Hello 👋, I'm Michelle Murigi**
 **I'm an aspiring Data Professional.**
 
 My background is in **data visualization**, and I'm currently expanding my skills in **data analytics** and **machine learning**. 
